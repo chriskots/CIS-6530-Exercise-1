@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy
+scikit-learn>=1.6
+lightgbm
+pyarrow
+matplotlib
+duckdb          # optional stretch goals
+jupyter         # optional

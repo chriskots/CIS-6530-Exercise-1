@@ -1,0 +1,223 @@
+host,owner,criticality,role
+WS091,nate.adams3,medium,workstation
+WS007,hugo.murphy,low,workstation
+WS129,zane.gupta4,low,workstation
+WS081,dev.khan3,low,workstation
+WS083,farid.evans3,low,workstation
+WS093,pavel.ortiz3,medium,workstation
+WS079,ben.quist3,high,workstation
+WS066,olga.fox2,medium,workstation
+WS164,ines.lopez6,low,workstation
+WS110,gita.nguyen4,medium,workstation
+LAB30,lab-3,low,lab machine
+WS168,mona.tran6,low,workstation
+WS172,quinn.hall6,low,workstation
+WS143,nate.evans5,medium,workstation
+WS101,xavier.khan3,low,workstation
+WS089,liam.gupta3,low,workstation
+WS118,olga.jones4,low,workstation
+WS039,nate.quist1,low,workstation
+WS023,xavier.evans,low,workstation
+LAB26,lab-3,low,lab machine
+WS025,zane.singh,medium,workstation
+LAB06,lab-1,low,lab machine
+WS131,ben.adams5,medium,workstation
+git01,it-ops,medium,source control
+WS074,wen.baker2,medium,workstation
+WS078,ana.jones3,low,workstation
+WS051,zane.adams1,low,workstation
+app01,it-ops,medium,application server
+WS179,xavier.quist6,low,workstation
+vulnscan01,it-ops,medium,vulnerability scanner
+WS123,tara.evans4,low,workstation
+WS014,olga.baker,low,workstation
+WS173,rosa.ortiz6,low,workstation
+WS177,vik.chen6,low,workstation
+WS068,quinn.tran2,low,workstation
+WS174,sam.baker6,medium,workstation
+WS160,emma.diaz6,low,workstation
+WS115,liam.ito4,low,workstation
+WS114,kira.baker4,low,workstation
+LAB22,lab-3,low,lab machine
+WS125,vik.singh4,medium,workstation
+WS077,zane.chen2,low,workstation
+WS001,ben.khan,medium,workstation
+WS060,ines.diaz2,low,workstation
+WS139,jamal.quist5,high,workstation
+WS024,yara.lopez,low,workstation
+LAB15,lab-2,low,lab machine
+WS022,wen.reyes,low,workstation
+WS052,ana.hall2,low,workstation
+WS045,tara.singh1,low,workstation
+WS127,xavier.murphy4,low,workstation
+WS058,gita.jones2,low,workstation
+WS163,hugo.evans6,low,workstation
+WS031,farid.adams1,medium,workstation
+LAB05,lab-1,low,lab machine
+WS003,dev.evans,low,workstation
+WS135,farid.ito5,low,workstation
+WS142,mona.reyes5,low,workstation
+WS099,vik.quist3,medium,workstation
+WS092,olga.hall3,medium,workstation
+WS063,liam.evans2,high,workstation
+WS028,chloe.tran1,medium,workstation
+WS065,nate.singh2,high,workstation
+WS126,wen.fox4,medium,workstation
+WS158,chloe.jones6,low,workstation
+WS004,emma.lopez,low,workstation
+WS056,emma.patel2,low,workstation
+LAB18,lab-2,low,lab machine
+WS038,mona.jones1,low,workstation
+WS033,hugo.ortiz1,low,workstation
+WS054,chloe.baker2,low,workstation
+WS018,sam.jones,medium,workstation
+dc01,it-ops,critical,domain controller
+WS076,yara.patel2,low,workstation
+WS106,chloe.fox4,low,workstation
+WS043,rosa.evans1,high,workstation
+WS057,farid.chen2,medium,workstation
+WS102,yara.reyes3,high,workstation
+ntp01,it-ops,low,time server
+WS116,mona.patel4,low,workstation
+LAB23,lab-3,low,lab machine
+WS150,uma.nguyen5,low,workstation
+WS027,ben.murphy1,low,workstation
+WS035,jamal.ito1,low,workstation
+WS042,quinn.reyes1,low,workstation
+WS037,liam.chen1,low,workstation
+WS107,dev.murphy4,low,workstation
+bastion01,it-ops,critical,jump host
+mail01,it-ops,high,mail server
+WS049,xavier.gupta1,medium,workstation
+WS097,tara.chen3,low,workstation
+WS140,kira.diaz5,low,workstation
+WS134,emma.baker5,medium,workstation
+WS141,liam.khan5,low,workstation
+WS085,hugo.singh3,low,workstation
+WS073,vik.ortiz2,medium,workstation
+dc02,it-ops,critical,domain controller
+WS015,pavel.ito,medium,workstation
+WS059,hugo.quist2,low,workstation
+WS117,nate.chen4,low,workstation
+WS149,tara.gupta5,low,workstation
+WS119,pavel.quist4,low,workstation
+LAB14,lab-2,low,lab machine
+LAB08,lab-1,low,lab machine
+WS012,mona.hall,low,workstation
+WS061,jamal.khan2,high,workstation
+WS132,chloe.hall5,low,workstation
+WS171,pavel.adams6,medium,workstation
+WS128,yara.tran4,low,workstation
+WS109,farid.gupta4,low,workstation
+WS020,uma.diaz,low,workstation
+WS017,rosa.chen,high,workstation
+LAB11,lab-2,low,lab machine
+WS124,uma.lopez4,high,workstation
+WS156,ana.patel6,low,workstation
+WS144,olga.lopez5,low,workstation
+WS121,rosa.khan4,low,workstation
+LAB24,lab-3,low,lab machine
+WS087,jamal.murphy3,low,workstation
+WS011,liam.adams,low,workstation
+WS162,gita.reyes6,low,workstation
+LAB20,lab-2,low,lab machine
+WS178,wen.jones6,low,workstation
+backup01,it-ops,high,backup server
+WS180,yara.diaz6,low,workstation
+WS098,uma.jones3,medium,workstation
+WS006,gita.fox,low,workstation
+WS167,liam.murphy6,low,workstation
+zabbix01,it-ops,medium,monitoring
+WS138,ines.jones5,low,workstation
+WS105,ben.singh4,high,workstation
+LAB19,lab-2,low,lab machine
+WS002,chloe.reyes,low,workstation
+WS075,xavier.ito2,medium,workstation
+WS155,zane.ito5,medium,workstation
+db01,it-ops,critical,database
+WS152,wen.hall5,high,workstation
+WS169,nate.gupta6,low,workstation
+LAB03,lab-1,low,lab machine
+LAB09,lab-1,low,lab machine
+WS157,ben.chen6,low,workstation
+WS148,sam.tran5,low,workstation
+WS153,xavier.ortiz5,high,workstation
+WS055,dev.ito2,low,workstation
+WS016,quinn.patel,low,workstation
+LAB10,lab-1,low,lab machine
+WS175,tara.ito6,low,workstation
+WS008,ines.tran,low,workstation
+LAB13,lab-2,low,lab machine
+WS166,kira.fox6,low,workstation
+app02,it-ops,medium,application server
+LAB27,lab-3,low,lab machine
+WS029,dev.gupta1,high,workstation
+WS176,uma.patel6,low,workstation
+WS044,sam.lopez1,medium,workstation
+web01,it-ops,high,public web server
+LAB29,lab-3,low,lab machine
+WS100,wen.diaz3,medium,workstation
+LAB25,lab-3,low,lab machine
+WS088,kira.tran3,low,workstation
+WS034,ines.baker1,low,workstation
+WS147,rosa.murphy5,low,workstation
+LAB17,lab-2,low,lab machine
+fs01,it-ops,high,file server
+WS069,rosa.gupta2,low,workstation
+WS094,quinn.baker3,low,workstation
+WS086,ines.fox3,low,workstation
+WS095,rosa.ito3,low,workstation
+WS021,vik.khan,low,workstation
+WS046,uma.fox1,low,workstation
+WS040,olga.diaz1,high,workstation
+WS019,tara.quist,medium,workstation
+WS064,mona.lopez2,low,workstation
+WS090,mona.nguyen3,low,workstation
+WS050,yara.nguyen1,low,workstation
+WS151,vik.adams5,low,workstation
+WS120,quinn.diaz4,medium,workstation
+WS071,tara.adams2,low,workstation
+LAB28,lab-3,low,lab machine
+WS154,yara.baker5,low,workstation
+LAB21,lab-3,low,lab machine
+WS010,kira.nguyen,medium,workstation
+WS048,wen.tran1,low,workstation
+WS096,sam.patel3,low,workstation
+LAB01,lab-1,low,lab machine
+nat-gw,it-ops,high,vpn/nat gateway
+WS053,ben.ortiz2,low,workstation
+WS137,hugo.chen5,low,workstation
+WS103,zane.evans3,medium,workstation
+WS009,jamal.gupta,medium,workstation
+WS067,pavel.murphy2,low,workstation
+WS062,kira.reyes2,low,workstation
+WS080,chloe.diaz3,low,workstation
+WS041,pavel.khan1,low,workstation
+WS112,ines.hall4,medium,workstation
+WS104,ana.lopez4,medium,workstation
+WS159,dev.quist6,medium,workstation
+LAB12,lab-2,low,lab machine
+WS047,vik.murphy1,low,workstation
+WS084,gita.lopez3,low,workstation
+LAB16,lab-2,low,lab machine
+WS145,pavel.singh5,low,workstation
+proxy01,it-ops,high,web proxy
+WS005,farid.singh,medium,workstation
+LAB07,lab-1,low,lab machine
+WS013,nate.ortiz,low,workstation
+WS133,dev.ortiz5,low,workstation
+WS026,ana.fox1,low,workstation
+LAB04,lab-1,low,lab machine
+WS032,gita.hall1,low,workstation
+WS130,ana.nguyen5,low,workstation
+dns01,it-ops,critical,dns resolver
+WS165,jamal.singh6,low,workstation
+WS108,emma.tran4,low,workstation
+WS079,ben.quist3,medium,workstation
+WS111,hugo.adams4,low,workstation
+WS070,sam.nguyen2,low,workstation
+WS030,emma.nguyen1,low,workstation
+WS113,jamal.ortiz4,high,workstation
+WS161,farid.khan6,low,workstation
+WS146,quinn.fox5,low,workstation
+LAB02,lab-1,low,lab machine
